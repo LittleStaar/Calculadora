@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    color: rgb(0, 0, 72);
+    background-color: rgb(184, 184, 184);
+    font-size: 50px;
+}
+h2{
+    color: rgb(0, 0, 72);
+    background-color: rgb(184, 184, 184);
+    align-items: center;
+}
+body{
+    background-color: rgb(222, 222, 222);
+    text-align: center;
+    font-family: Tahoma;
+}
+input{
+    width: 420px;
+    text-align: center;
+}
+button { /*Botão*/
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(2, 2, 126);
+    border-color: rgb(0, 0, 48);
+    align-items: center;
+}
