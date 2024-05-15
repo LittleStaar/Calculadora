@@ -1,6 +1,6 @@
 # Calculadora
 ## Sobre o projeto
-O objetivo desse projeto foi refazer o site Fale Conosco do Sesi Pernambuco, de maneira mais simples, porém o mais fiel possível. 
+O objetivo desse projeto foi fazer um site em que se calculasse dois números escolhidos pelo usuário automaticamente. Este também foi o primeiro projeto em que utilizei Javascript
 
 ## Layout do projeto
 ![Prévia da Imagem]
@@ -11,5 +11,5 @@ O objetivo desse projeto foi refazer o site Fale Conosco do Sesi Pernambuco, de 
 * CSS 
 * Javascript
 
-## Autores
+## Autor
 <b>Aline Kettylen Oliveira da Silva</b>
